@@ -1,7 +1,5 @@
 <a href="https://bit.ly/3koZRGY"><img src="missa.jpg" alt="google-font" border="0"></a>
 <div align="center">
-        <img src="https://media.giphy.com/media/12r4pHjvAOv48o/giphy.gif" alt="GIF" width="250" height="200"/>
-</p>
 
 <div align="center">
 
@@ -11,7 +9,7 @@
 </p>
 <div align="center">
  <p align="center">
-<a href="#"><img title="AMEER KALLUMTHODI" src="https://img.shields.io/badge/AMEERSUHAIL-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Adhi" src="https://img.shields.io/badge/Adhi-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
 <a href="https://github.com/Adhi"><img title="Author" src="https://img.shields.io/badge/Author-Adhi/missa-adhi?color=blue&style=for-the-badge&logo=whatsapp"></a>
@@ -121,19 +119,19 @@ By establishing the missa-adhi, you are deemed to have accepted these responsibi
 ## Developers
   <div align="center">
     
-  [![Adhi](https://github.com/Adhi.png?size=100)](https://github.com/Adhi) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) | [![Souravkl11](https://github.com/souravkl11.png?size=100)](https://github.com/souravkl11) 
+  [![Adhi](https://github.com/Adhi.png?size=100)](https://github.com/Adhi) | [![Adhi2](https://github.com/Adhi2.png?size=100)](https://github.com/Adhi2) | [![Adhi](https://github.com/Adhi.png?size=100)](https://github.com/Adhi) 
 ----|----|----
-[Ameer Suhail](https://github.com/Adhi) | [saidalisaid2](https://github.com/saidalisaid2) | [Souravkl11](https://github.com/souravkl11/Raganork)
+[Adhi](https://github.com/Adhi) | [Adhi2](https://github.com/Adhi2) | [Adhi](https://github.com/Adhi/Raganork)
 Base, Bug Fixes, Modules | Bug Fixes, Modules | Bug fixes, ideas
   </div>
 
 ## Contributors
-`Ameer Suhail`
-`Afnanplk`
-`Cyberchekuthan`
-`Farhan-Dqz`
-`Saidalisaid`
-`Souravkl11`
+`Adhi`
+`Adhi12`
+`Adhi`
+`Adhi`
+`Adhi`
+`Adhi`
         
         
 ## License
